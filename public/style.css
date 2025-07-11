@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 18px;
+  margin: 10px;
+}
+
+canvas {
+  background: #222;
+  display: block;
+  margin: auto;
+}
